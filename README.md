@@ -1,4 +1,4 @@
-# dune-ndreco
+# dune-nd-reco
 Near-Detector Reconstruction code for DUNE's Phlex-based software stack
 
 ## Copyright and Licensing
